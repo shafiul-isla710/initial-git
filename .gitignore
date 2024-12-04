@@ -1,0 +1,6 @@
+*.txt
+!test2.txt 
+*.html
+!index.html
+//folder ignore
+temp/
