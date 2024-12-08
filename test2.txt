@@ -3,3 +3,8 @@ Institute is kurigram polytechic Institute
 Department Computer
 Roll Number is 611848
 Semester sixth
+
+// missing birthdate and education quelifications
+My Birthday is 02 september 2005
+Finished SSC 2021
+Studying Kurigram polytechnic Institue
