@@ -1,8 +1,6 @@
 My Name is shafiul Haque
-Institute is kurigram polytechic Institute
-Department Computer
-Roll Number is 611848
-Semester sixth
+I will go to Dhaka and I finding a job
+Iam learning Web Deveopment 
 
 // missing birthdate and education quelifications
 My Birthday is 02 september 2005
